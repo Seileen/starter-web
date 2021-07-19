@@ -12,3 +12,6 @@ Modificato per il git diff
 
 #The END
 Added this part of text
+
+#Copyright 
+Abbiamo messo il copyright nell'html
