@@ -15,3 +15,6 @@ Added this part of text
 
 #Copyright 
 Abbiamo messo il copyright nell'html
+
+#How to contribute
+Please fork this repository
