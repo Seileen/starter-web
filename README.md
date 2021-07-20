@@ -3,7 +3,8 @@ this is the intro
 
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+Emergency fix after stash
 
 # Purpose
 
